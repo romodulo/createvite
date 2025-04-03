@@ -1,0 +1,1 @@
+First commit of < 4-3>  <23:42> : create vite project using a vanilla javascript template;

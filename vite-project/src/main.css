@@ -1,0 +1,10 @@
+#one-box {
+    will-change: filter;
+    transition: filter 300ms;
+    background-color: white;
+}
+
+#one-box:hover {
+    filter: drop-shadow(0 0 2em #646cffaa);
+    /* color: #747bff; */
+}
