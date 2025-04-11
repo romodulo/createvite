@@ -1,3 +1,5 @@
 First commit of < 4-3>  <23:42> : create vite project using a vanilla javascript template;
 
-First commit of < 4-10>  <23:50> : still sick; no coding for today; 
+First commit of < 4-10>  <23:50> : still sick; no coding for today;
+
+First commit of < 4-11>  <23:43>:  no coding again for today;
